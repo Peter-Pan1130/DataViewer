@@ -79,9 +79,6 @@ export default function Home() {
           <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
             CSV Data Viewer
           </h1>
-          <p className="mt-3 text-xl text-gray-500">
-            Viewing data from UK_ICES_fish_stock_and_shellfish_stock_assessment_data_2017.csv
-          </p>
         </div>
         
         {/* Search and Filter Controls */}
